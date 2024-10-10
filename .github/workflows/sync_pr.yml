@@ -12,4 +12,4 @@ jobs:
         with:
           project: Issues Assemble
           column: Todo
-          repo-token: ${{ secrets.pr_assemble }}
+          repo-token: ${{ secrets.PR_ASSEMBLE }}
